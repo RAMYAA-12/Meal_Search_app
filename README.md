@@ -25,6 +25,5 @@
 
 ---
 
-## 📂 Folder Structure
 
 

@@ -1,9 +1,6 @@
 <h1 align="center">🍽️ MealSearch App</h1>
 <p align="center">Search any meal, explore full recipes, and discover new dishes using TheMealDB API.</p>
 
-# 🍽️ MealSearch App
-
-A clean and lightweight web application that lets users search meals using TheMealDB API and view complete recipe details including images, ingredients, and step-by-step instructions.
 
 ---
 
